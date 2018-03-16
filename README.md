@@ -25,3 +25,9 @@ https://app.box.com/s/d48v9ukp81947cd5rv7jnm2yll385b24
 ### OBSERVACIÓN CONTEXTUAL
 
 ![image](https://user-images.githubusercontent.com/32310873/37546868-d9c13968-293c-11e8-890d-45fd521469b0.png)
+
+
+### PROTOPERSONA
+
+
+![image](https://user-images.githubusercontent.com/32310873/37547067-952ad4e8-293d-11e8-89dc-f320ad76f42f.png)
