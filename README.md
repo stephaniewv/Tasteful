@@ -43,7 +43,7 @@ Una vez ya identificado al tipo de usuario que debo contactar, me dispongo a rea
 
 Me ayuda saber cuál es el problema pero no como resolverlo. Preguntas cerradas.
 
-![image](https://user-images.githubusercontent.com/32310873/37610563-f39b4580-2b6d-11e8-9755-3ac60bd5215d.png)
+![image](https://user-images.githubusercontent.com/32310873/37610682-42e0c87c-2b6e-11e8-9267-01c14722a45b.png)
 
 ### OBSERVACIÓN CONTEXTUAL
 
