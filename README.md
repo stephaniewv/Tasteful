@@ -57,8 +57,28 @@ Vamos a interpretar los resultados de las entrevistas que realizamos.
 
 https://docs.google.com/drawings/d/1dzIRWTD9KOtqttCzOUiXwd7HhhaCdCCH8_C9CtwZF4I/edit?usp=sharing
 
+Luego de analizar todo la información obtenida, que el principal problema esta en:
+
+- Tiempo de espera ubicar mesa
+- Tiempo de espera recepcionar los platillos
+- Pagos
+
+### USER PERSON
+
+Con la información recaudada nos ponemos a realizar nuestro USER PERSON
+https://docs.google.com/drawings/d/15o2neaZvdmMxv9MAaL3KKH4ETN0qgq_Cpt5N306O6Xk/edit?usp=sharing
+
+![image](https://user-images.githubusercontent.com/32310873/37609572-6bc0c876-2b6b-11e8-94e0-9ae233638acb.png)
+
+### BENCHMARK
+
+Nuestra principal competencia:
+
+MESA 24/7
+
+**¿Cómo funciona? **
+
+Te muestra un listado de alrededor de 40 restaurantes top de la ciudad entre los que puedes elegir según el distrito o tipo de comida (Carnes, nikkei, marina, nueva cocina peruana, fusión, de autor, criolla, etc.). Te muestra las horas de reservas (cada 15 minutos) del día, te creas una cuenta, confirmas, te llega un mail de confirmación y listo. No hay necesidad de llamar para estar seguros.
 
 
-
-
-
+![image](https://user-images.githubusercontent.com/32310873/37609717-dd4dee92-2b6b-11e8-91ee-3d1d0500bed3.png)
