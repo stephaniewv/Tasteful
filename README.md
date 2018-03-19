@@ -49,5 +49,16 @@ Me ayuda saber cuál es el problema pero no como resolverlo. Preguntas cerradas.
 
 ![image](https://user-images.githubusercontent.com/32310873/37546868-d9c13968-293c-11e8-890d-45fd521469b0.png)
 
+### AFFINITY  MAP
+
+Vamos a interpretar los resultados de las entrevistas que realizamos.
+
+![image](https://user-images.githubusercontent.com/32310873/37608581-eeccaca6-2b68-11e8-8029-479b330a9667.png)
+
+https://docs.google.com/drawings/d/1dzIRWTD9KOtqttCzOUiXwd7HhhaCdCCH8_C9CtwZF4I/edit?usp=sharing
+
+
+
+
 
 
