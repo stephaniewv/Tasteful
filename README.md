@@ -74,9 +74,9 @@ https://docs.google.com/drawings/d/15o2neaZvdmMxv9MAaL3KKH4ETN0qgq_Cpt5N306O6Xk/
 
 Nuestra principal competencia:
 
-MESA 24/7
+**MESA 24/7**
 
-**¿Cómo funciona? **
+**¿Cómo funciona?**
 
 Te muestra un listado de alrededor de 40 restaurantes top de la ciudad entre los que puedes elegir según el distrito o tipo de comida (Carnes, nikkei, marina, nueva cocina peruana, fusión, de autor, criolla, etc.). Te muestra las horas de reservas (cada 15 minutos) del día, te creas una cuenta, confirmas, te llega un mail de confirmación y listo. No hay necesidad de llamar para estar seguros.
 
