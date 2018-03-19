@@ -31,6 +31,8 @@ El formato esta compuesto de cuatro cuadrantes, que me ayudará a conocer el tip
 
 #### RESEARCH CUALITATIVO
 
+Una vez ya identificado al tipo de usuario que debo contactar, me dispongo a realizar las entrevistas, para ello se realizó una guía de preguntas previas.
+
 ##### Entrevistas
 
 ![image](https://user-images.githubusercontent.com/32310873/37546353-6971ff78-293a-11e8-8f10-93bb7a3d09e3.png)
