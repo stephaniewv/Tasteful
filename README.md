@@ -97,5 +97,6 @@ En base a las entrevistas con el usuario, se decidió realizar un prototipo con 
 ![image](https://user-images.githubusercontent.com/32310873/37844955-4580b732-2e97-11e8-89ab-ff771d6b6b68.png)
 
 ![image](https://user-images.githubusercontent.com/32310873/37844975-52174542-2e97-11e8-8dc6-947b5c7b401e.png)
+![image](https://user-images.githubusercontent.com/32310873/37845330-38d5b720-2e98-11e8-823d-209b8bf25f4d.png)
 
 ![image](https://user-images.githubusercontent.com/32310873/37844999-5cd65568-2e97-11e8-82c8-a2962753c0eb.png)
