@@ -82,3 +82,13 @@ Te muestra un listado de alrededor de 40 restaurantes top de la ciudad entre los
 
 
 ![image](https://user-images.githubusercontent.com/32310873/37609717-dd4dee92-2b6b-11e8-91ee-3d1d0500bed3.png)
+
+
+### USER FLOW + PROTOTIPADO
+
+En base a las entrevistas con el usuario, se decidió realizar un prototipo con el MVP 
+
+![image](https://user-images.githubusercontent.com/32310873/37831960-31d3dbfa-2e75-11e8-8a4d-e58fac228de3.png)
+
+
+
