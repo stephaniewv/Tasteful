@@ -91,4 +91,11 @@ En base a las entrevistas con el usuario, se decidió realizar un prototipo con 
 ![image](https://user-images.githubusercontent.com/32310873/37831960-31d3dbfa-2e75-11e8-8a4d-e58fac228de3.png)
 
 
+![image](https://user-images.githubusercontent.com/32310873/37844940-3e6dfec8-2e97-11e8-934d-f3b6ae93329c.png)
+![image](https://user-images.githubusercontent.com/32310873/37844964-4b56eef6-2e97-11e8-818c-6561d5f21efc.png)
 
+![image](https://user-images.githubusercontent.com/32310873/37844955-4580b732-2e97-11e8-89ab-ff771d6b6b68.png)
+
+![image](https://user-images.githubusercontent.com/32310873/37844975-52174542-2e97-11e8-8dc6-947b5c7b401e.png)
+
+![image](https://user-images.githubusercontent.com/32310873/37844999-5cd65568-2e97-11e8-82c8-a2962753c0eb.png)
